@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=a+b
+print(c)
+
+OUTPUT:
+2
+3
+5
